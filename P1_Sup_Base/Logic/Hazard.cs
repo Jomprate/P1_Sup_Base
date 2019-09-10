@@ -2,5 +2,6 @@
 {
     public class Hazard
     {
+        private const int Strenght=5;
     }
 }

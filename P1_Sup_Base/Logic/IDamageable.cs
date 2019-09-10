@@ -2,5 +2,11 @@
 {
     public interface IDamageable
     {
+
+        public ReceiveDamage()
+        {
+
+        }
+
     }
 }

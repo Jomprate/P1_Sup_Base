@@ -2,6 +2,9 @@
 {
     public interface IDamager
     {
-        
+        public ApplyDamage(int damage)
+        {
+            
+        }
     }
 }
